@@ -20,7 +20,7 @@
 | Description | Create Github Repo and Kali VM for class |
 | Due Date | 28-Aug-2023 |
 | Status | Done |
-| Location |  |
+| Location | https://github.com/RaulSMedina/NetApp_ssmedina2 |
 | Self Grade | 100/100 |
 | Notes | Completed both section for Setup Hack Box and GitHub Account |
 
