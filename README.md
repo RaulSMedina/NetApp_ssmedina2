@@ -1,6 +1,6 @@
 # NetApp_ssmedina2
 
-| Name | Value |
+| Name | Sebastian M. |
 |:---|:---|
 | **Course** | CSCI465 - Network/Application Security |
 | **Section** | 1 |
@@ -14,7 +14,7 @@
 
 ### Assignment #0
 
-| Name | Value |
+| Name | Sebastian M. |
 | :--- | :--- |
 | Name | Setup Hack Box and GitHub Account |
 | Description | Create Github Repo and Kali VM for class |
@@ -26,7 +26,7 @@
 
 ### Assignment #1
 
-| Name | Value |
+| Name | Sebastain M. |
 | :--- | :--- |
 | Name | Network Security Basics |
 | Description | Complete all Module in Network security on trytohackme |
@@ -36,3 +36,14 @@
 | Self Grade | 100/100 |
 | Notes | Completed all module for Network security and completed a summary of each module |
 
+### Assignments #2
+
+| Name | Sebastian M. |
+| :--- | :--- |
+| Name | Remote Exploitation |
+| Description | Within the echo server find vulnerabilitys and exploit it using local shellcode, port-binding shellcode, and connect-back shellcode |
+| Due Date | 18-Sep-2023 |
+| Status |  |
+| Location |  |
+| Self Grade | /100 |
+| Notes | Will be turing in late |
