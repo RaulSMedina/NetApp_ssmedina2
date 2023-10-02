@@ -47,3 +47,15 @@
 | Location |  |
 | Self Grade | /100 |
 | Notes | Will be turing in late |
+
+### Assignments #3
+
+| Name | Sebastian M. |
+| :--- | :--- |
+| Name | Format Strings |
+| Description | Within the log server find vulnerabilitys and modify the logs memory then exploit the server though black shell code then patch the vulnerability |
+| Due Date | 2-Oct-2023 |
+| Status | In progress |
+| Location |  |
+| Self Grade | /100 |
+| Notes | Will be turing in late |
