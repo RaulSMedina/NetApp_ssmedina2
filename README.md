@@ -80,6 +80,6 @@
 | Description | Create an account in tryhackme.com and complete the How the Web Works, Web Hacking, and Burp Suite modules. |
 | Due Date | 6-Nov-2023 |
 | Status | In progress |
-| Location |  |
+| Location | https://github.com/RaulSMedina/NetApp_ssmedina2/tree/main/WebBasics |
 | Self Grade | 100/100 |
 | Notes | |
