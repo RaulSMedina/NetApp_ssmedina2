@@ -59,3 +59,27 @@
 | Location |  |
 | Self Grade | /100 |
 | Notes | Will be turing in late |
+
+### Assignments #4
+
+| Name | Sebastian M. |
+| :--- | :--- |
+| Name | Scapy-MitM Attack |
+| Description | Write a Python scrpit that replicates major features of arpspoof and dsniff tool. |
+| Due Date | 26-Oct-2023 |
+| Status | In progress |
+| Location |  |
+| Self Grade | /100 |
+| Notes | Will be turing in late |
+
+### Assignments #5
+
+| Name | Sebastian M. |
+| :--- | :--- |
+| Name | Web Security Basics-Exercise |
+| Description | Create an account in tryhackme.com and complete the How the Web Works, Web Hacking, and Burp Suite modules. |
+| Due Date | 6-Nov-2023 |
+| Status | In progress |
+| Location |  |
+| Self Grade | 100/100 |
+| Notes | |
