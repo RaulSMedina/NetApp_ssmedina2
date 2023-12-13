@@ -83,3 +83,27 @@
 | Location | https://github.com/RaulSMedina/NetApp_ssmedina2/tree/main/WebBasics |
 | Self Grade | 100/100 |
 | Notes | I just realized that my pdf for the assighment did not get added when I pushed this assighment to GitHub. I just pused it with this updated readme file. I did finsh this assighment on time. |
+
+### Assignments #6
+
+| Name | Sebastian M. |
+| :--- | :--- |
+| Name | WebGoat |
+| Description | This program is a demonstration of common server-side application flaws. The exercises are intended to be used by people to learn about web application security and penetration testing techniques. |
+| Due Date | 13-Dec-2023 |
+| Status | Done |
+| Location | https://github.com/RaulSMedina/NetApp_ssmedina2/tree/main/WebBasics |
+| Self Grade | 100/100 |
+| Notes | I did everything expect the Challeges. Did not know that we did not have to do the ones with developer so I did them anyways |
+
+### Final
+
+| Name | Sebastian M. |
+| :--- | :--- |
+| Name | Final Project |
+| Description | Use one of the labs from SEED Labs (https://seedsecuritylabs.org/) that has not been covered/used in Cyber and Net/App classe |
+| Due Date | 4-Dec-2023 |
+| Status | Done |
+| Location | https://github.com/RaulSMedina/NetApp_ssmedina2/tree/main/Final_Prestation |
+| Self Grade | 100/100 |
+| Notes |  |
