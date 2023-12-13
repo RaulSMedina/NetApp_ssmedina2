@@ -92,9 +92,9 @@
 | Description | This program is a demonstration of common server-side application flaws. The exercises are intended to be used by people to learn about web application security and penetration testing techniques. |
 | Due Date | 13-Dec-2023 |
 | Status | Done |
-| Location | https://github.com/RaulSMedina/NetApp_ssmedina2/tree/main/WebBasics |
-| Self Grade | 100/100 |
-| Notes | I did everything expect the Challeges. Did not know that we did not have to do the ones with developer so I did them anyways |
+| Location | https://github.com/RaulSMedina/NetApp_ssmedina2/tree/main/WebGoat |
+| Self Grade | 95/100 |
+| Notes | I did everything expect the Challeges. Did not know that we did not have to do the ones with developer so I did them anyways. Also I thought this assighment was due at 12 on Dec-13 2023 I do apologies for that. |
 
 ### Final
 
